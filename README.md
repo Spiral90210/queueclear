@@ -21,5 +21,5 @@ sqs =
 ```
 
 ```shell
-AWS_PROFILE=myprogile go run ./ -queue localqueuename
+AWS_PROFILE=myprofile go run ./ -queue localqueuename
 ```
